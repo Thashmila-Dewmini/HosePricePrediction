@@ -1,8 +1,6 @@
 # HosePricePrediction
 A simple house price prediction using Linear Regression
 
-A simple house price prediction using Linear Regression
-
 ### Software and Tools requirements
 
 1. [Github Account](https://github.com)
